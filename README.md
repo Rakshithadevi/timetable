@@ -119,3 +119,6 @@ Execute the program
 ~~~
 # OUPUT
 ![GitHub Logo](output.png)
+RESULT:
+The timetable has been created and tested successfully
+
